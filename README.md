@@ -1,6 +1,6 @@
-# Spotlight
+# My Developer Portfolio Website
 
-Spotlight is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
+My website is built using [Tailwind CSS](https://tailwindcss.com) and [Next.js 13](https://nextjs.org).
 
 ## Getting started
 
